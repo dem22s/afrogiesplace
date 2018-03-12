@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "name": "AFL&PP",
     "theme": {
       "name": "mobirise3",
@@ -420,7 +420,7 @@
               "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -718,7 +718,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -1489,7 +1489,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -1978,7 +1978,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -2827,7 +2827,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -3406,7 +3406,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>&nbsp;<br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
