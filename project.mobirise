@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "name": "AFL&PP",
     "theme": {
       "name": "mobirise3",
@@ -111,7 +111,6 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A.F.L.&amp;.P.P</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">SUBMIT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">WIPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">PUBLISHED WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BLOG SPOT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"page1.html\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
-          "_customHTML": "<section data-rv-view=\"0\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(255, 255, 255);\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"index.html\">A.F.L.&amp;.P.P</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"15\"></a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page1.html\" code-editable-id=\"16\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page3.html\" code-editable-id=\"17\">SUBMIT</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page2.html\" code-editable-id=\"18\">WIPS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page4.html\" code-editable-id=\"19\">PUBLISHED WORKS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page5.html\" code-editable-id=\"20\">BLOG SPOT</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n  font-size: 14px;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n  font-family: 'Droid Serif', serif;\n}\n.link {\n  font-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #fac51c;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #33834a;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #3d9d59!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #41a85f;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #fac51c;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #fac51c!important;\n}\n.btn SPAN {\n  font-size: 20px;\n  font-family: 'Open Sans', sans-serif;\n}\n",
@@ -407,7 +406,7 @@
               "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -756,7 +755,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -1527,7 +1526,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -2016,7 +2015,7 @@
               "newWindow": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -2865,7 +2864,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
@@ -3444,7 +3443,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>74 Meadowlark Circle&nbsp;<br>Lochbuie, CO &nbsp;80603",
+          "text1": "<strong>Address</strong><br>Lochbuie, CO &nbsp;80603",
           "text2": "<strong>Contacts</strong><br>\nEmail: the22sllc@gmail.com<br>\nPhone: +1 (717) - 406- 9661<br><br>",
           "text3": "<p><strong>Links</strong><br><br></p>"
         }
