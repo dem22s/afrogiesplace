@@ -777,6 +777,77 @@ h6,
   font-size: 11px;
   font-family: 'Indie Flower', cursive;
 }
+#custom-html-4f {
+  
+  
+}
+#custom-html-4f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#custom-html-4f .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#custom-html-4f .navbar-toggler {
+  color: #ffffff;
+}
+#custom-html-4f .close-icon::before,
+#custom-html-4f .close-icon::after {
+  background-color: #ffffff;
+}
+#custom-html-4f .link,
+#custom-html-4f .dropdown-item {
+  color: #ffffff;
+  font-family: 'Droid Serif', serif;
+}
+#custom-html-4f .link {
+  font-size: 0.75rem;
+}
+#custom-html-4f .dropdown-item,
+#custom-html-4f .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#custom-html-4f .link:hover,
+#custom-html-4f .dropdown-item:hover,
+#custom-html-4f .link:focus,
+#custom-html-4f .dropdown-item:focus {
+  color: #fac51c;
+}
+#custom-html-4f .link[aria-expanded="true"],
+#custom-html-4f .dropdown-menu {
+  background: #33834a;
+}
+#custom-html-4f .nav-dropdown-sm .link:focus,
+#custom-html-4f .nav-dropdown-sm .link:hover,
+#custom-html-4f .nav-dropdown-sm .dropdown-item:focus,
+#custom-html-4f .nav-dropdown-sm .dropdown-item:hover {
+  background: #3d9d59!important;
+}
+#custom-html-4f .navbar,
+#custom-html-4f .nav-dropdown-sm,
+#custom-html-4f .nav-dropdown-sm .link[aria-expanded="true"],
+#custom-html-4f .nav-dropdown-sm .dropdown-menu {
+  background: #41a85f;
+}
+#custom-html-4f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#custom-html-4f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#custom-html-4f .bg-color.transparent.opened .link:hover,
+#custom-html-4f .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#custom-html-4f .link[aria-expanded="true"],
+#custom-html-4f .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#custom-html-4f .btn SPAN {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
@@ -796,8 +867,10 @@ h6,
   color: #ffffff;
 }
 
-
-
+#ext_menu-10 {
+  
+  
+}
 #ext_menu-10 .hide-buttons .nav-btn {
   display: none !important;
 }
