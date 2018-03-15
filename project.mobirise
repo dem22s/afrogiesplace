@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "name": "AFL&PP",
     "theme": {
       "name": "mobirise3",
@@ -177,7 +177,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#b4e8b0",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -190,11 +190,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-864x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aflappsitemap2-800x800.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1012,7 +1011,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "caption": "XXTRVGNZA WebZine",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -1020,9 +1019,11 @@
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/ods2-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ods2-800x800-511x385.png",
+                "caption": "Quick wip for maybe an old guy news comic strip?",
+                "alt": "",
+                "active": true
               },
               {
                 "tags": "Creative",
