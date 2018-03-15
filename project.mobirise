@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "name": "AFL&PP",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 160,
+    "uniqCompNum": 164,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -1023,16 +1023,18 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ods2-800x800-511x385.png",
                 "caption": "Quick wip for maybe an old guy news comic strip?",
                 "alt": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/me3scover-2000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/me3scover-2000x1500-800x600.png",
+                "caption": "Type caption here",
+                "alt": "",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1041,7 +1043,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -3293,6 +3296,141 @@
           ],
           "_name": "content7",
           "_anchor": "content7-3s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sketch-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Massive Motion.",
+          "text": "<p>*Looks at clock to see tomorrow has come.* BY : KDD 1144 3/15/18</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4g"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/aflappsitemap2-800x800.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Making a move, to see if you make it, kinda grateful!",
+          "text": "<p>Work til the bones in tip o' finger shows. Thru. Outwardly expressing itself. Not to knot up those around them. Too, show thru to them loose ends looking to get a good slip. Out comes that tension. The teather chord, that noise, that draws forth the 4's in us. &nbsp;Outcomes. For fierce outsiders sorting selves out. Input. Out does one get put off by ins &amp; outs. Good. Goods. Gone. Great&gt;greatest. Humble moves made to see sync, in its sink, soaking in fresh tidings of itself hangin'.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box4-4h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b4e8b0"
+          },
+          "title": "Outwardly confused, Inwardly amused.",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "I make motion pictures in my head with the series of events that is my life. The tide rises and falls every day. Weather or not there is us. Water calls us to be ourselves when around it, but if you cant speak a language aint it gunna just sound like traffic. Jammed up. Seedless jars of sweetness. Goes great with me peanuts. Milk made by them too. Vegan delights to a heavy heart of proccessed meats imbibed. All the same. Track to intensly synthiesize. All that will be our next actions had? Movies mocking us truly. Aint this grand? &nbsp;",
+          "text2": "<p>Understatement of the past moments. Made men are those that made themselves and lived to tell the tale to others that have or are yet to of done so, but who by meeting him will be one step closer. So. Living past my rebirth, I ate the notice one could have for to keep myself going on words forwards. Drawing conclusions i kept me heart going. Ongoing til the tales told of broken rung truth in my body. Told truth is what i opened. Heard what they did. Closed my eyes lids. To find them. All those that time did toll, but tax them it did.&nbsp;</p>",
+          "text3": "<p>They now here knots. Not entirely on thier own. So a spot of spills none of which could fit his bill. Be a cap. Caps fill brims. Tipped for common courtesy is it what you actually wanted? Now&gt;Then. Stick with timeless to wholly be more represented. AHHHHH, Yes. Sweet release. Four more missing teeth. A trip from the tooth fairy. This is one productive ass night. I sincerly did do a bunch of self guiding in the planning department of this whole monstrosity. Addams's would be &amp; i know are proud of us, lil' reflections of all of our own.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-4j"
         },
         {
           "_inherit": "social-buttons2",
