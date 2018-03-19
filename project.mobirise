@@ -1073,11 +1073,11 @@
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/20170823-172101-2000x1125.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170823-172101-2000x1125-800x450.jpg",
-                "caption": "The two that helped merge these topics",
+                "image": "@PROJECT_PATH@/assets/images/rofus-dhas-wearawolf-services-600x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/rofus-dhas-wearawolf-services-600x800-600x800.png",
+                "caption": "Rofus, he da man. Wolf-man, that is.",
                 "alt": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1088,7 +1088,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20180221-085357-310-600x600-600x600.jpg",
                 "caption": "Dat Chair Bizzar...",
                 "alt": "",
-                "active": true
+                "active": false
               }
             ]
           },
