@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page2.html",
     "name": "AFL&PP",
     "theme": {
       "name": "mobirise3",
@@ -1031,7 +1031,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "image": "@PROJECT_PATH@/assets/images/me3scover-2000x1500.png",
                 "thumb": "@PROJECT_PATH@/assets/images/me3scover-2000x1500-800x600.png",
-                "caption": "Type caption here",
+                "caption": "Baren doorway no afixed logos.",
                 "alt": "",
                 "active": false
               },
@@ -1040,46 +1040,55 @@
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "image": "@PROJECT_PATH@/assets/images/20180208-62759-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180208-62759-2000x1500-800x600.jpg",
+                "caption": "Sunrise on my horizon lines.",
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/20180127-151536-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20180127-151536-2000x2666-800x1066.jpg",
+                "caption": "Positioning physical anchors again.",
+                "alt": "",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/20171203-174842-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20171203-174842-2000x1500-800x600.jpg",
+                "caption": "Views from the forearm here.",
+                "alt": "",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/20170823-172101-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170823-172101-2000x1125-800x450.jpg",
+                "caption": "The two that helped merge these topics",
+                "alt": "",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@ADDONS_PATH@/colorm/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/img-20180221-085357-310-600x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180221-085357-310-600x600-600x600.jpg",
+                "caption": "Dat Chair Bizzar...",
+                "alt": "",
+                "active": true
               }
             ]
           },
